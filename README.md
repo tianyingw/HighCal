@@ -1,4 +1,4 @@
-# Screening
+# HighCal
 
 An R tool for the high-dimensional calibration method for log-contrast models subject to measurement errors.
 
